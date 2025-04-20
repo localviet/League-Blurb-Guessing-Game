@@ -13,6 +13,7 @@ const Sidebar = () => {
                 <Link to="/quiz" className="hover:text-blue-400">Quiz</Link>
             </li>
         </ul>
+        <p className='mt-8'>This project was made by <br /><b>Khang H.</b></p>
         </div>
     )
 }
