@@ -17,7 +17,7 @@ function Quiz() {
 
     return (
     <main className='flex'>
-        <div id='main' className='w-full flex flex-col items-center'>
+        <div id='main' className='w-full flex flex-col items-center mt-16'>
             <div className='flex flex-col items-center justify-center'>
                 <h1 className='text-5xl font-bold text-yellow-200 mb-12'>League of Legends Quiz</h1>
             </div>

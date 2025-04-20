@@ -10,9 +10,9 @@ import Quiz from './Quiz'
 
 function Home() {
   const [count, setCount] = useState(0)
-    
+
   return (
-    <main className='flex'>
+    <main className='flex mt-16'>
 
       <div id='main' className='w-full'>
         <div className='flex flex-col items-center justify-center'>
