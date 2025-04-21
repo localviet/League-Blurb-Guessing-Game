@@ -52,6 +52,7 @@ const Game = () => {
         setChampion(selectedChampion);
         setQuote(maskedQuote);
         setGuess('');
+        setReveal(false);
       }
     }
 
